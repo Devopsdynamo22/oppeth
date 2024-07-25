@@ -1,20 +1,105 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Ford with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What year was Ford founded?",
+      "answers": ["1903", "1910", "1920"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Ford's sports car?",
+      "answers": ["Fiesta", "Mustang", "Focus"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Where is Ford headquartered?",
+      "answers": ["NYC", "Detroit", "LA"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who founded Ford?",
+      "answers": ["Henry", "Thomas", "Elon"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What is Ford's pickup?",
+      "answers": ["Ranger", "Accord", "Camry"],
       "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a Ford SUV?",
+      "answers": ["Civic", "Escape", "Fit"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Ford's slogan?",
+      "answers": ["Built Tough", "Zoom-Zoom", "Let's Go"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Ford is a hybrid?",
+      "answers": ["Fusion", "Taurus", "Fiesta"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ford's electric car?",
+      "answers": ["Model 3", "Leaf", "Mach-E"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is a Ford compact?",
+      "answers": ["Focus", "Explorer", "Expedition"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What year was the Mustang launched?",
+      "answers": ["1964", "1970", "1980"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Ford is full-size?",
+      "answers": ["Edge", "Fiesta", "Expedition"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which is Ford's crossover?",
+      "answers": ["Edge", "Fusion", "Escape"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Ford's luxury brand?",
+      "answers": ["Acura", "Lexus", "Lincoln"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Ford's midsize?",
+      "answers": ["Taurus", "Focus", "Fiesta"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Ford has AWD?",
+      "answers": ["Fiesta", "Focus", "Explorer"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "What is Ford's subcompact?",
+      "answers": ["Edge", "Fiesta", "Escape"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which Ford has EcoBoost?",
+      "answers": ["Ranger", "Accord", "Civic"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which is a Ford hatchback?",
+      "answers": ["Escape", "Focus", "F-150"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "What is Ford's performance line?",
+      "answers": ["RS", "ST", "GT"],
+      "correctAnswerIndex": 2
     }
   ]
 }
